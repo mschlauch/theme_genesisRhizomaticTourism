@@ -12,7 +12,7 @@
   ;stylesheets[all][] = css/dark/dark.css
 
 ; Uncomment if using Gpanels.
-  ;stylesheets[all][] = css/gpanels/gpanels-fluid.css
+  stylesheets[all][] = css/gpanels/gpanels-fluid.css
 
 ; Subtheme modular stylsheets.
   stylesheets[all][] = css/html-elements.css
@@ -46,8 +46,8 @@
   ; Uncomment the required regions.
 
   ; 2 col 2 x 50
-  ;regions[two_50_first]  = GP 2 x 50% First
-  ;regions[two_50_second] = GP 2 x 50% Second
+  regions[two_50_first]  = GP 2 x 50% First
+  regions[two_50_second] = GP 2 x 50% Second
 
   ; 2 col 33-66
   ;regions[two_33_66_first]  = GP 33% 66% - First
