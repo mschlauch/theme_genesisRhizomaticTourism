@@ -194,3 +194,17 @@
 
 
 
+ /**                  Language Switcher
+ **********************************************************/
+/*  */
+.block-locale {
+
+}
+
+.block-locale li {
+padding-right: 0.3em;
+display: inline;
+list-style: none;
+float:right;
+}
+

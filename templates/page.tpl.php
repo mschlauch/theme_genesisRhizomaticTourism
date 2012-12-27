@@ -105,7 +105,7 @@
             <div id="site-slogan"><?php print $site_slogan; ?></div>
           <?php endif; ?>
 
-        </div> <!-- /branding -->
+        
       <?php endif; ?>
 
       <?php if ($page['header']): ?>
@@ -113,7 +113,7 @@
       <?php endif; ?>
 
     </div> <!-- /header -->
-
+</div> <!-- /branding -->
     <?php if ($main_menu_links): ?>
       <div id="main-menu-wrapper" class="clearfix">
         <div class="main-menu-inner"><?php print $main_menu_links; ?></div>
